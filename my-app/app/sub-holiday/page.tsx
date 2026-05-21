@@ -7,7 +7,7 @@ export default function HolidayPage() {
           <div>
             <h1 className="text-3xl font-bold">San Francisco</h1>
             <p className="text-gray-400">Premium Economy</p>
-          </div>
+          </div>x
           <div className="flex gap-6 flex-wrap">
             <div className="flex gap-2 items-center justify-center">
               <img src={"/tag.svg"} className="h-5 w-5" />
